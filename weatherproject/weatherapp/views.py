@@ -39,7 +39,7 @@ def home(request):
             'icon': '01d',
             'temp': 25,
             'day': datetime.date.today(),
-            'city': 'indore',
+            'city': 'mumbai',
             'exception_occurred': True
         }
 
